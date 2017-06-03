@@ -12,3 +12,5 @@
 * feature
 这里是feature分支写入的内容，目的是制造冲突。
 7. 生成一个dev分支，写入内容。切换回master分支，用禁用fast forward模式merge dev分支。
+*dev
+这里的内容是由dev分支写入的，在之后的合并操作中会保留dev分支的信息。
